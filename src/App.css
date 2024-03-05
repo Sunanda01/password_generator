@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+.box{
+  width: 40rem;
+  background-color: rgb(224, 197, 197);
+  border-radius: .5rem;
+  padding: 1rem;
+  color: brown;
+  text-transform: uppercase;
+}
+.inputfield{
+ 
+  background-color: white;
+  height: 3rem;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;  
+}
+.inputbox{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(252, 251, 251);
+  text-decoration: none;
+  border: none;
+  padding-left: 1rem;
+  color: black;
+  font-weight: bold; 
+}
+.inputbox:focus
+{ outline: none;}
+.copyButton{
+  border-radius: 3rem;
+  background-color: brown;
+  width:8rem;
+  border: none;
+  outline: none;
+}
+.bottonLayer{
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+  gap:4rem;
+}
+.range ,.checkBox, .checkBox2 {
+  display: flex;
+  gap:.5rem;
+}
