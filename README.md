@@ -1,5 +1,5 @@
 # PASSWORD GENERATOR
-### It is a basic React Project for generating random passwords combing *alphabets, numbers, characters*.
+### It is a basic React Project for generating random passwords combing *alphabets, numbers* and *characters*.
 -We can select different ranges from 6 to 15 for password.
 -Using the copy button we can the password to the clipboard.
     <br>  <br>
